@@ -1,0 +1,52 @@
+{
+    "name": "Venus",
+    "tempInK": 755,
+    "radInKm": 6052,
+    "moons": [],
+    "popculture": [
+        {
+            "name": "Princess And the Frog",
+            "year": 2009,
+            "genre": "Adventure, Animation, Comedy",
+            "imageUrl": "https://m.media-amazon.com/images/I/51dIxqKKuRL.jpg",
+            "synopsis": "The Princess and the Frog is a 2009 American animated musical fantasy romantic comedy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures. Set in the 1920s New Orleans, the film tells the story of a hardworking waitress named Tiana who dreams of opening her own restaurant. After kissing a prince who has been turned into a frog by an evil witch doctor, Tiana becomes a frog herself and must find a way to turn back into a human before it is too late.",
+            "cast": "Ankita Noni Rose, Keith David, Oprah Winfrey",
+            "director": "Ron Clements, John Musker"
+        },
+        {
+            "name": "Zontar, the Thing from Venus",
+            "year": 1967,
+            "genre": "Sc-Fi, Horror",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/87/Zontar%2C_The_Thing_from_Venus%281956_film%29_poster.jpg",
+            "synopsis": "Zontar, the Thing from Venus (also known as Zontar: The Invader from Venus) is a 1967 American made-for-television horror science fiction film directed by Larry Buchanan and starring John Agar and Susan Bjurman. It is based on the teleplay by Hillman Taylor and Buchanan.",
+            "cast": "John Agar, Susan Bjurman",
+            "director": "Larry Buchanan"
+        },
+        {
+            "name": "Venus Wars",
+            "year": 1986,
+            "genre": "Adventure, Sci-Fi",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Venus_Wars.jpg",
+            "synopsis": "Venus Wars is a Japanese manga series written and illustrated by Yoshikazu Yasuhiko. It was serialized in the Gakken magazine Nora Comics from 1986 to 1990. In 1989, The Venus Wars was adapted into an anime film directed by Yoshikazu Yasuhiko, and co-written by Yuichi Sasamoto and Yoshikazu Yasuhiko, and produced by Bandai Visual, Gakken, and Shochiku.",
+            "cast": "Katsuhide Uekusa, Yuko Mizutani, Eriko Hara",
+            "director": "Yoshikazu Yasuhiko"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "Dec. 14, 1962",
+            "name": "Mariner 2",
+            "description": "Mariner 2 (Mariner-Venus 1962), an American space probe to Venus, was the first robotic space probe to conduct a successful planetary encounter. The first successful spacecraft in the NASA Mariner program."
+        },
+        {
+            "launchDate": "June 10, 2021",
+            "name": "EnVision",
+            "description": "EnVision is an orbital mission to Venus being developed by the European Space Agency (ESA) that is planned to perform high-resolution radar mapping and atmospheric studies. EnVision is designed to help scientists understand the relationships between its geological activity and the atmosphere, and it would investigate why Venus and Earth took such different evolutionary paths. The probe was selected as the fifth medium mission (M5) of ESA's Cosmic Vision programme in June 2021, with launch planned for 2031. The mission will be conducted in collaboration with NASA, with the potential sharing of responsibilities currently under assessment."
+        },
+        {
+            "launchDate": "3 November 1973",
+            "name": "Mariner 10",
+            "description": "Mariner 10 was an American robotic space probe launched by NASA on 3 November 1973, to fly by the planets Mercury and Venus. It was the first spacecraft to perform flybys of multiple planets. It's mission objectives were to measure Mercury's environment, atmosphere, surface, and body characteristics and to make similar investigations of Venus."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Mercury",
+    "tempInK": 700,
+    "radInKm": 2440,
+    "moons": [],
+    "popculture": [
+        {
+            "name": "Collision Earth",
+            "year": 2011,
+            "genre": "Action, Adventure, Drama",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmExNWE0MDgtOWNjOC00ZjAyLTk5NDEtNTUwZGYxN2E5NDI1XkEyXkFqcGdeQXVyMjQxODI4NzA@._V1_.jpg",
+            "synopsis": "When the sun converts to a magnetar for a short time, the planet Mercury is thrown out of orbit and set on a collision course for Earth. It's up to a disgraced scientist to save our planet.",
+            "cast": "Kirk Acevedo, Diane Farr, Chad Krowchuk",
+            "director": "Paul Ziller"
+        },
+        {
+            "name": "Invader Zim",
+            "year": 2001,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/733382/733382._SX1600_QL80_TTD_.jpg",
+            "genre": "Action, Adventure, Animation",
+            "synopsis": "Invader Zim is an American animated science fiction dark comedy television series created by comic book writer and cartoonist Jhonen Vasquez for Nickelodeon. The series centers on an extraterrestrial named Zim (voiced by Richard Steven Horvitz), from the planet Irk, and his mission to conquer Earth and enslave the human race along with his malfunctioning robot servant GIR (Rosearik Rikki Simons). He is antagonized by Dib (Andy Berman), a young paranormal investigator who is determined to stop Zim from succeeding.",
+            "cast": "Andy Berman, Richard Steven Horvitz, Rikki Simons",
+            "director": "Jhonen Vasquez"
+        },
+        {
+            "name": "Sunshine",
+            "year": 2007,
+            "genre": "Sc-Fi, Thriller",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU5Nzg2OTk2NF5BMl5BanBnXkFtZTYwNTc1ODM3._V1_FMjpg_UX1000_.jpg",
+            "synopsis": "Sunshine is a 2007 science fiction psychological thriller film directed by Danny Boyle and written by Alex Garland. Taking place in the year 2057, the story follows a group of astronauts on a dangerous mission to reignite the dying Sun",
+            "cast": "Cillian Murphy, Rose Byrne, Chris Evans",
+            "director": "Danny Boyle"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "March 18, 2011",
+            "name": "MESSENGER",
+            "description": "MESSENGER was a NASA robotic space probe that orbited the planet Mercury between 2011 and 2015, studying Mercury's chemical composition, geology, and magnetic field. MESSENGER entered orbit around Mercury on March 18, 2011, becoming the first spacecraft to do so. It successfully completed its primary mission in 2012. Following two mission extensions, the spacecraft used the last of its maneuvering propellant to deorbit, impacting the surface of Mercury on April 30, 2015."
+        },
+        {
+            "launchDate": "20 October 2018",
+            "name": "BepiColombo",
+            "description": "BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to the planet Mercury. One of the main objectives involve the study of the origin and evolution of a planet close to its parent star."
+        },
+        {
+            "launchDate": "3 November 1973",
+            "name": "Mariner 10",
+            "description": "Mariner 10 was an American robotic space probe launched by NASA on 3 November 1973, to fly by the planets Mercury and Venus. It was the first spacecraft to perform flybys of multiple planets. It's mission objectives were to measure Mercury's environment, atmosphere, surface, and body characteristics and to make similar investigations of Venus."
+        }
+    ]
+}

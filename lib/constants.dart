@@ -1,0 +1,10 @@
+const String sun_details = '/sun';
+const String mercury_details = '/mercury';
+const String venus_details = '/venus';
+const String earth_details = '/earth';
+const String mars_details = '/mars';
+const String jupiter_details = '/jupiter';
+const String saturn_details = '/saturn';
+const String neptune_details = '/neptune';
+const String uranus_details = '/uranus';
+const String pluto_details = '/pluto';

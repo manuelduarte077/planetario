@@ -1,0 +1,52 @@
+{
+    "name": "Sun",
+    "tempInK": 5778,
+    "radInKm": 696340,
+    "moons": [],
+    "popculture": [
+        {
+            "name": "Solar Crisis",
+            "year": 1990,
+            "genre": "Sc-Fi, Thriller",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzcwNDg2NjMtZTJhYi00NmY4LWJkNzQtZmFmOTdkNzY4Nzk0XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_FMjpg_UX1000_.jpg",
+            "synopsis": "To stop a solar flare from destroying the Earth, Steve Kelso is tasked to drop an artificially intelligent bomb on the Sun from the spaceship Helios. Arnold Teague, who believes the danger to be overstated, attempts to sabotage the mission so he can profit from the panic. Teague's agents on Earth clash with Kelso's father, Admiral \"Skeet\" Kelso, and his son, Mike.",
+            "cast": "Tim Matheson, Charlton Heston, Peter Boyle",
+            "director": "Richard C. Sarafian"
+        },
+        {
+            "name": "Sunshine",
+            "year": 2007,
+            "genre": "Sc-Fi, Thriller",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU5Nzg2OTk2NF5BMl5BanBnXkFtZTYwNTc1ODM3._V1_FMjpg_UX1000_.jpg",
+            "synopsis": "Sunshine is a 2007 science fiction psychological thriller film directed by Danny Boyle and written by Alex Garland. Taking place in the year 2057, the story follows a group of astronauts on a dangerous mission to reignite the dying Sun",
+            "cast": "Cillian Murphy, Rose Byrne, Chris Evans",
+            "director": "Danny Boyle"
+        },
+        {
+            "name": "The Impossible Voyage",
+            "year": 1904,
+            "genre": "Adventure, Fantasy",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjI3ZmRjYWYtNzhlMy00M2ZjLTliOTctZDhlM2YwZDcxMDE3XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
+            "synopsis": "A society of geographical enthusiasts, the Institute of Incoherent Geography, plans to make a world tour in such a way as to \"surpass in conception and invention all previous expeditions undertaken by the learned world.\"",
+            "cast": "Georges Méliès, Fernande Albany, May de Lavergne, Jehanne d'Alcy",
+            "director": " Georges Méliès"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "Aug 12, 2018",
+            "name": "Parker Solar Probe",
+            "description": "The Parker Solar Probe is a NASA space probe launched in 2018 with the mission of making observations of the outer corona of the Sun. On 29 October 2018, at about 18:04 UTC, the spacecraft became the closest ever artificial object to the Sun."
+        },
+        {
+            "launchDate": "Dec 2, 1995",
+            "name": "Soho",
+            "description": "The Solar and Heliospheric Observatory (SOHO) is a European Space Agency (ESA) spacecraft built by a European industrial consortium led by Matra Marconi Space. Originally planned as a two-year mission, SOHO continues to operate after over 25 years in space; the mission has been extended until the end of 2020 with a likely extension until 2022."
+        },
+        {
+            "launchDate": "Oct 6, 1990",
+            "name": "Ulysses",
+            "description": "Ulysses was a robotic space probe whose primary mission was to orbit the Sun and study it at all latitudes. The spacecraft was originally named Odysseus, because of its lengthy and indirect trajectory to study the solar poles. It was renamed Ulysses, the Latin translation of \"Odysseus\", at ESA's request in honor not only of Homer's mythological hero but also of Dante's character in the Inferno."
+        }
+    ]
+}

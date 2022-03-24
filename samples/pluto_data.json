@@ -1,0 +1,73 @@
+{
+    "name": "Pluto",
+    "tempInK": 755,
+    "radInKm": 6052,
+    "moons": [
+        {
+            "name": "Charon",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charon_in_True_Color_-_High-Res.jpg"
+        },
+        {
+            "name": "Hydra",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hydra_Enhanced_Color.jpg"
+        },
+        {
+            "name": "Kerberos",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Kerberos_%28moon%29.jpg"
+        },
+        {
+            "name": "Nix",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nix_best_view.jpg"
+        },
+        {
+            "name": "Styx",
+            "imageUrl": "https://solarsystem.nasa.gov/system/content_pages/main_images/547_styx-moon.jpg"
+        }
+    ],
+    "popculture": [
+        {
+            "name": "Doctor Who",
+            "year": 1963,
+            "genre": "Adventure, Drama, Family",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJtHyHDp0G9ksS745k-wBwnHtDl5avgqHdw&usqp=CAU",
+            "synopsis": "Doctor Who is a British science fiction television programme broadcast by BBC One since 1963. The programme depicts the adventures of a Time Lord called the Doctor, an extraterrestrial being who appears to be human. The Doctor explores the universe in a time-travelling space ship called the TARDIS. The TARDIS exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. With various companions, the Doctor combats foes, works to save civilisations and helps people in need.",
+            "cast": "William Hartnell, John Pertwee",
+            "director": "Donald B. Wilson"
+        },
+        {
+            "name": "X-Bomber",
+            "year": 1980,
+            "genre": "Sci-Fi, Fantasy",
+            "imageUrl": "Shttps://upload.wikimedia.org/wikipedia/en/thumb/0/03/XRemasterDVD.jpg/250px-XRemasterDVD.jpg",
+            "synopsis": "This show can be considered somewhat of a cross between the work of Go Nagai and Ken Ishikawa's Getter Robo and Star Wars. As in Getter Robo, the show's protagonists ride three vehicles that combine into a giant robot. Big Dai X, the robot in X-Bomber, is more similar to the kind seen in the popular Super Sentai series than a regular Nagai robot. ",
+            "cast": "Toshio Furukawa, Shigeru Chiba, Mami Koyama",
+            "director": "Michio Mikami"
+        },
+        {
+            "name": "Voyage To The Planets",
+            "year": 2004,
+            "genre": "Documentary, Drama , Sci-Fi",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmcTxoDqOIfbFfFEzDipegwPUQcCQIRNDPg&usqp=CAU",
+            "synopsis": "This two-part science fiction docu-drama examines the possibilities of a dangerous, manned space mission to explore the inner and outer planets of the Solar system.",
+            "cast": "David Suchet, Martin McDougall, Joanne McQuinn ",
+            "director": "Joe Ahearne"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "February 18, 1930",
+            "name": "Pluto Discovered",
+            "description": "Clyde Tombaugh took many photographs of the region of the sky where Lowell had predicted Planet X would be. He compared photos taken days apart by using a blink comparator, which superimposed the images of the two plates and blinked rapidly between them. After less than a year of searching, Tombaugh found Pluto on two plates taken in January 1930."
+        },
+        {
+            "launchDate": "August 24, 2006",
+            "name": "Pluto Demoted",
+            "description": "Beginning in the 1990s, its status as a planet was questioned following the discovery of several objects of similar size in the Kuiper belt and the scattered disc, including the dwarf planet Eris. This led the International Astronomical Union (IAU) in 2006 to formally define the term \"planet\"—excluding Pluto and reclassifying it as a dwarf planet. "
+        },
+        {
+            "launchDate": "February 7, 1979",
+            "name": "Crossing Neptune's Orbit",
+            "description": "Pluto’s orbit has a higher eccentricity than the other planets’ orbits. A circle has an eccentricity of 0. Pluto, however, has an eccentricity of 0.251, which means that its orbit crosses that of Neptune, making that planet farther from the Sun from February 7, 1979, until February 11, 1999."
+        }
+    ]
+}

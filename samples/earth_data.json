@@ -1,0 +1,57 @@
+{
+    "name": "Earth",
+    "tempInK": 288,
+    "radInKm": 6371,
+    "moons": [
+        {
+            "name": "Moon",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-EeD12yjT1zzLZ0nycdU5xuoiAsQiQmXz1Q&usqp=CAU"
+        }
+    ],
+    "popculture": [
+        {
+            "name": "Doctor Who",
+            "year": 1963,
+            "genre": "Adventure, Drama, Family",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJtHyHDp0G9ksS745k-wBwnHtDl5avgqHdw&usqp=CAU",
+            "synopsis": "Doctor Who is a British science fiction television programme broadcast by BBC One since 1963. The programme depicts the adventures of a Time Lord called the Doctor, an extraterrestrial being who appears to be human. The Doctor explores the universe in a time-travelling space ship called the TARDIS. The TARDIS exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. With various companions, the Doctor combats foes, works to save civilisations and helps people in need.",
+            "cast": "William Hartnell, John Pertwee",
+            "director": "Donald B. Wilson"
+        },
+        {
+            "name": "Event Horizon",
+            "year": 1997,
+            "genre": "Sci-Fi, Horror",
+            "imageUrl": "https://i.ytimg.com/vi/Jefhys1LO-U/movieposter.jpg",
+            "synopsis": "A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board.",
+            "cast": "Lawrence Fishburne, Sam Neill, Kathleen Quinlan",
+            "director": "Paul W.S. Anderson"
+        },
+        {
+            "name": "Futurama",
+            "year": 1999,
+            "genre": "Comedy, Animation , Sci-Fi",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9eScDfYqGotAVi3a6IBGjW6aaTgeFxQHlg&usqp=CAU",
+            "synopsis": "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999.",
+            "cast": "Billy West, John DiMaggio, Katey Sagal",
+            "director": "David X. Cohen, Matt Groening"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "Oct 4, 1957",
+            "name": "Sputnik",
+            "description": "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program. It orbited for three weeks before its batteries died and then orbited silently for two months before it fell back into the atmosphere on 4 January 1958."
+        },
+        {
+            "launchDate": "July 20, 1969",
+            "name": "Moon Landing",
+            "description": "On July 20, 1969, Armstrong and Apollo 11 Lunar Module (LM) pilot Buzz Aldrin became the first people to land on the Moon, and the next day they spent two and a half hours outside the Lunar Module Eagle spacecraft while Michael Collins remained in lunar orbit in the Apollo Command Module Columbia. When Armstrong first stepped onto the lunar surface, he famously said: \"That's one small step for man, one giant leap for mankind.\""
+        },
+        {
+            "launchDate": "Feb 1, 1958",
+            "name": "Explorer 1",
+            "description": "Explorer 1 was the first satellite launched by the United States and was part of the U.S. participation in the International Geophysical Year (IGY). The mission followed the first two satellites the previous year; the Soviet Union's Sputnik 1 and Sputnik 2, beginning the Cold War Space Race between the two nations. "
+        }
+    ]
+}

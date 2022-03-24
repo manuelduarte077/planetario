@@ -1,0 +1,68 @@
+{
+    "name": "Neptune",
+    "tempInK": 755,
+    "radInKm": 6052,
+    "moons": [
+        {
+            "name": "Charon",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charon_in_True_Color_-_High-Res.jpg"
+        },
+        {
+            "name": "Hydra",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hydra_Enhanced_Color.jpg"
+        },
+        {
+            "name": "Kerberos",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Kerberos_%28moon%29.jpg"
+        },
+        {
+            "name": "Nix",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nix_best_view.jpg"
+        },
+        {
+            "name": "Styx",
+            "imageUrl": "https://solarsystem.nasa.gov/system/content_pages/main_images/547_styx-moon.jpg"
+        }
+    ],
+    "popculture": [
+        {
+            "name": "Doctor Who",
+            "year": 1963,
+            "genre": "Adventure, Drama, Family",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJtHyHDp0G9ksS745k-wBwnHtDl5avgqHdw&usqp=CAU",
+            "synopsis": "Doctor Who is a British science fiction television programme broadcast by BBC One since 1963. The programme depicts the adventures of a Time Lord called the Doctor, an extraterrestrial being who appears to be human. The Doctor explores the universe in a time-travelling space ship called the TARDIS. The TARDIS exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. With various companions, the Doctor combats foes, works to save civilisations and helps people in need.",
+            "cast": "William Hartnell, John Pertwee",
+            "director": "Donald B. Wilson"
+        },
+        {
+            "name": "Event Horizon",
+            "year": 1997,
+            "genre": "Sci-Fi, Horror",
+            "imageUrl": "https://i.ytimg.com/vi/Jefhys1LO-U/movieposter.jpg",
+            "synopsis": "A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board.",
+            "cast": "Lawrence Fishburne, Sam Neill, Kathleen Quinlan",
+            "director": "Paul W.S. Anderson"
+        },
+        {
+            "name": "Futurama",
+            "year": 1999,
+            "genre": "Comedy, Animation , Sci-Fi",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9eScDfYqGotAVi3a6IBGjW6aaTgeFxQHlg&usqp=CAU",
+            "synopsis": "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999.",
+            "cast": "Billy West, John DiMaggio, Katey Sagal",
+            "director": "David X. Cohen, Matt Groening"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "February 18, 1930",
+            "name": "4 new moons",
+            "description": "Clyde Tombaugh took many photographs of the region of the sky where Lowell had predicted Planet X would be. He compared photos taken days apart by using a blink comparator, which superimposed the images of the two plates and blinked rapidly between them. After less than a year of searching, Tombaugh found Pluto on two plates taken in January 1930."
+        },
+        {
+            "launchDate": "February 7, 1979",
+            "name": "Crossing Neptune's Orbit",
+            "description": "Pluto’s orbit has a higher eccentricity than the other planets’ orbits. A circle has an eccentricity of 0. Pluto, however, has an eccentricity of 0.251, which means that its orbit crosses that of Neptune, making that planet farther from the Sun from February 7, 1979, until February 11, 1999."
+        }
+    ]
+}

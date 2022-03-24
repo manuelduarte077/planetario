@@ -1,0 +1,69 @@
+{
+    "name": "Jupiter",
+    "tempInK": 755,
+    "radInKm": 6052,
+    "moons": [
+        {
+            "name": "Io",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReULf060q2AOj7oZj_57zl4iarMqI3gM1-IA&usqp=CAU"
+        },
+        {
+            "name": "Europa",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uyh-0yaiBdPyW9rSFQgvW4vR4ccLe3j9lw&usqp=CAU"
+        },
+        {
+            "name": "Ganymede",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN99tCgRCGXzv5TXFxhtMF335VbJigukU3ow&usqp=CAU"
+        },
+        {
+            "name": "Philophrosyne",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDt-J32-l99okNN7MvoaLpSCxnd82HWZEP2w&usqp=CAU"
+        }
+    ],
+    "popculture": [
+        {
+            "name": "2001: A Space Odyssey",
+            "year": 1968,
+            "genre": "Adventure, Sci-Fi",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/2001_A_Space_Odyssey_%281968%29.png/220px-2001_A_Space_Odyssey_%281968%29.png",
+            "synopsis": "2001: A Space Odyssey is a 1968 epic science fiction film produced and directed by Stanley Kubrick. The film is noted for its scientifically accurate depiction of space flight, pioneering special effects, and ambiguous imagery. Kubrick avoided conventional cinematic and narrative techniques; dialogue is used sparingly, and there are long sequences accompanied only by music.",
+            "cast": "Keir Dullea, Gary Lockwood, Willian Sylvester",
+            "director": "Stanley Kubrick"
+        },
+        {
+            "name": "Doctor Who",
+            "year": 1963,
+            "genre": "Adventure, Drama, Family",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJtHyHDp0G9ksS745k-wBwnHtDl5avgqHdw&usqp=CAU",
+            "synopsis": "Doctor Who is a British science fiction television programme broadcast by BBC One since 1963. The programme depicts the adventures of a Time Lord called the Doctor, an extraterrestrial being who appears to be human. The Doctor explores the universe in a time-travelling space ship called the TARDIS. The TARDIS exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. With various companions, the Doctor combats foes, works to save civilisations and helps people in need.",
+            "cast": "William Hartnell, John Pertwee",
+            "director": "Donald B. Wilson"
+        },
+        {
+            "name": "Star Trek",
+            "year": 1987,
+            "genre": "Adventure, Action, Mystery",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmcTxoDqOIfbFfFEzDipegwPUQcCQIRNDPg&usqp=CAU",
+            "synopsis": "In the 23rd Century, Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
+            "cast": "William Shatner, Leonard Nimoy, DeForest Kelley",
+            "director": "Gene Roddennberry"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "Jul 20, 2009",
+            "name": "Shoemaker-Levy",
+            "description": "Mariner 2 (Mariner-Venus 1962), an American space probe to Venus, was the first robotic space probe to conduct a successful planetary encounter. The first successful spacecraft in the NASA Mariner program."
+        },
+        {
+            "launchDate": "June 10, 2021",
+            "name": "Galileo",
+            "description": "EnVision is an orbital mission to Venus being developed by the European Space Agency (ESA) that is planned to perform high-resolution radar mapping and atmospheric studies. EnVision is designed to help scientists understand the relationships between its geological activity and the atmosphere, and it would investigate why Venus and Earth took such different evolutionary paths. The probe was selected as the fifth medium mission (M5) of ESA's Cosmic Vision programme in June 2021, with launch planned for 2031. The mission will be conducted in collaboration with NASA, with the potential sharing of responsibilities currently under assessment."
+        },
+        {
+            "launchDate": "3 November 1973",
+            "name": "Cassini",
+            "description": "Mariner 10 was an American robotic space probe launched by NASA on 3 November 1973, to fly by the planets Mercury and Venus. It was the first spacecraft to perform flybys of multiple planets. It's mission objectives were to measure Mercury's environment, atmosphere, surface, and body characteristics and to make similar investigations of Venus."
+        }
+    ]
+}

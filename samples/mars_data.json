@@ -1,0 +1,56 @@
+{
+    "name": "Mars",
+    "tempInK": 755,
+    "radInKm": 6052,
+    "moons": [
+        {
+            "name": "Deimos",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlpXwyOGUi2ppNsih8wMB30tcEyxP1jdJyTg&usqp=CAU"
+        },
+        {
+            "name": "Phobos",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlpXwyOGUi2ppNsih8wMB30tcEyxP1jdJyTg&usqp=CAU"
+        }
+    ],
+    "popculture": [
+        {
+            "name": "Doctor Who",
+            "year": 1963,
+            "genre": "Adventure, Drama, Family",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJtHyHDp0G9ksS745k-wBwnHtDl5avgqHdw&usqp=CAU",
+            "synopsis": "Doctor Who is a British science fiction television programme broadcast by BBC One since 1963. The programme depicts the adventures of a Time Lord called the Doctor, an extraterrestrial being who appears to be human. The Doctor explores the universe in a time-travelling space ship called the TARDIS. The TARDIS exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. With various companions, the Doctor combats foes, works to save civilisations and helps people in need.",
+            "cast": "William Hartnell, John Pertwee",
+            "director": "Donald B. Wilson"
+        },
+        {
+            "name": "Event Horizon",
+            "year": 1997,
+            "genre": "Sci-Fi, Horror",
+            "imageUrl": "https://i.ytimg.com/vi/Jefhys1LO-U/movieposter.jpg",
+            "synopsis": "A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board.",
+            "cast": "Lawrence Fishburne, Sam Neill, Kathleen Quinlan",
+            "director": "Paul W.S. Anderson"
+        },
+        {
+            "name": "Futurama",
+            "year": 1999,
+            "genre": "Comedy, Animation , Sci-Fi",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9eScDfYqGotAVi3a6IBGjW6aaTgeFxQHlg&usqp=CAU",
+            "synopsis": "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999.",
+            "cast": "Billy West, John DiMaggio, Katey Sagal",
+            "director": "David X. Cohen, Matt Groening"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "April 19, 2021",
+            "name": "Ingenuity helicopter",
+            "description": "Clyde Tombaugh took many photographs of the region of the sky where Lowell had predicted Planet X would be. He compared photos taken days apart by using a blink comparator, which superimposed the images of the two plates and blinked rapidly between them. After less than a year of searching, Tombaugh found Pluto on two plates taken in January 1930."
+        },
+        {
+            "launchDate": "Feb. 18, 2021",
+            "name": "Perseverance rover",
+            "description": "Beginning in the 1990s, its status as a planet was questioned following the discovery of several objects of similar size in the Kuiper belt and the scattered disc, including the dwarf planet Eris. This led the International Astronomical Union (IAU) in 2006 to formally define the term \"planet\"—excluding Pluto and reclassifying it as a dwarf planet. "
+        }
+    ]
+}

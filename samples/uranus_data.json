@@ -1,0 +1,64 @@
+{
+    "name": "Uranus",
+    "tempInK": -59,
+    "radInKm": 25362,
+    "moons": [
+        {
+            "name": "Ariel",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charon_in_True_Color_-_High-Res.jpg"
+        },
+        {
+            "name": "Oberon",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hydra_Enhanced_Color.jpg"
+        },
+        {
+            "name": "Puck",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Kerberos_%28moon%29.jpg"
+        },
+        {
+            "name": "Titania",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nix_best_view.jpg"
+        },
+        {
+            "name": "Umbriel",
+            "imageUrl": "https://solarsystem.nasa.gov/system/content_pages/main_images/547_styx-moon.jpg"
+        }
+    ],
+    "popculture": [
+        {
+            "name": "Doctor Who",
+            "year": 1963,
+            "genre": "Adventure, Drama, Family",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJtHyHDp0G9ksS745k-wBwnHtDl5avgqHdw&usqp=CAU",
+            "synopsis": "Doctor Who is a British science fiction television programme broadcast by BBC One since 1963. The programme depicts the adventures of a Time Lord called the Doctor, an extraterrestrial being who appears to be human. The Doctor explores the universe in a time-travelling space ship called the TARDIS. The TARDIS exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. With various companions, the Doctor combats foes, works to save civilisations and helps people in need.",
+            "cast": "William Hartnell, John Pertwee",
+            "director": "Donald B. Wilson"
+        },
+        {
+            "name": " Journey to the Edge of the Universe",
+            "year": 2008,
+            "genre": "Documentary, Family ",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Journey_to_the_Edge_of_the_Universe_2008.jpg",
+            "synopsis": "Journey to the Edge of the Universe is a documentary film broadcast on National Geographic and the Discovery Channel.[1] It depicts a simulated space journey from Earth to the edge of the universe.[2] The US edition was narrated by Alec Baldwin and the UK edition by Sean Pertwee",
+            "cast": "Alec Baldwin. Sean Pertwee",
+            "director": "Yavar Abbas"
+        }
+    ],
+    "event": [
+        {
+            "launchDate": "Mar 18, 2011",
+            "name": "New Horizons",
+            "description": "New Horizons passes the orbit of Uranus on its way to Pluto, becoming the first spacecraft to journey beyond Uranus' orbit since Voyager 2"
+        },
+        {
+            "launchDate": "Dec 22, 2005",
+            "name": "Rings and Moons",
+            "description": "NASA announces the discovery of a new pair of rings around Uranus and two new, small moons (Mab and Cupid) orbiting the planet from photographs taken by the Hubble Space Telescope."
+        },
+        {
+            "launchDate": "Jan 24, 1986",
+            "name": "Voyager 2",
+            "description": "NASA's Voyager 2 made the first - and so far the only - visit to Uranus. The spacecraft came within 50,600 miles (81,500 kilometers) of the planet's cloud tops."
+        }
+    ]
+}
