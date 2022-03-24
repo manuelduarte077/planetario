@@ -17,7 +17,9 @@ class BodyDetail extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+        backgroundColor: Colors.indigo,
+      ),
       body: DecoratedBox(
         decoration: const BoxDecoration(
           image: DecorationImage(
