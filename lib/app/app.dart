@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false;
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(fontFamily: 'RobotoCondensed'),
       home: const Scaffold(
         body: DecoratedBox(
